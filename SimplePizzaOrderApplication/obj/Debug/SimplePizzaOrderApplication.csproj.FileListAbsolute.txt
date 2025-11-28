@@ -1,0 +1,11 @@
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\SimplePizzaOrderApplication\bin\Debug\SimplePizzaOrderApplication.exe.config
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\SimplePizzaOrderApplication\bin\Debug\SimplePizzaOrderApplication.exe
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\SimplePizzaOrderApplication\bin\Debug\SimplePizzaOrderApplication.pdb
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\SimplePizzaOrderApplication\obj\Debug\SimplePizzaOrderApplication.csproj.AssemblyReference.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\SimplePizzaOrderApplication\obj\Debug\SimplePizzaOrderApplication.Form1.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\SimplePizzaOrderApplication\obj\Debug\SimplePizzaOrderApplication.Properties.Resources.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\SimplePizzaOrderApplication\obj\Debug\SimplePizzaOrderApplication.csproj.GenerateResource.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\SimplePizzaOrderApplication\obj\Debug\SimplePizzaOrderApplication.csproj.CoreCompileInputs.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\SimplePizzaOrderApplication\obj\Debug\SimplePizzaOrderApplication.exe
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\SimplePizzaOrderApplication\obj\Debug\SimplePizzaOrderApplication.pdb
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\SimplePizzaOrderApplication\obj\Debug\SimplePizzaOrderApplication.exe.config
