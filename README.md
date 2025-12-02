@@ -10,7 +10,7 @@ A customizable pizza-ordering application with these features:
   <li>Clean user interface</li>
 </ul>
 https://github.com/user-attachments/assets/59422b43-979c-4744-8e4b-12c2d78ab055
-Line 1
+<br>
 
 Project#2: Tic-Tac-Toe Game:
 A colorful and interactive game with these features:
