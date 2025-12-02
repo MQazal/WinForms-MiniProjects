@@ -2,12 +2,18 @@
 This repo represents my beginnings in the world of C# Windows Forms programming and demonstrating basic desktop app concepts through simple projects.
 
 Project#1: Pizza Order:
-A customizable pizza-ordering WinForms application featuring dynamic price calculation, category-based toppings, and a clean user interface:
+A customizable pizza-ordering application with these features:
+<ul>
+  <li>Menus serve the user</li>
+  <li>Dynamic price calculation</li>
+  <li>Category-based toppings</li>
+  <li>Clean user interface</li>
+</ul>
 https://github.com/user-attachments/assets/59422b43-979c-4744-8e4b-12c2d78ab055
 
 
 Project#2: Tic-Tac-Toe Game:
-A colorful and interactive game built using C# and Windows Forms with these features:
+A colorful and interactive game with these features:
 <ul>
   <li>Player-vs-Player gameplay</li>
   <li>Clear visual grid with dynamic updates</li>
