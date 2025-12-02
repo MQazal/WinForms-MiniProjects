@@ -1,7 +1,7 @@
 # WinForms-MiniProjects
 This repo represents my beginnings in the world of C# Windows Forms programming and demonstrating basic desktop app concepts through simple projects.
 
-Project#1: Pizza Order:
+<br>Project#1: Pizza Order:
 A customizable pizza-ordering application with these features:
 <ul>
   <li>Menus serve the user</li>
@@ -10,7 +10,7 @@ A customizable pizza-ordering application with these features:
   <li>Clean user interface</li>
 </ul>
 https://github.com/user-attachments/assets/59422b43-979c-4744-8e4b-12c2d78ab055
-
+</br>
 
 <br>Project#2: Tic-Tac-Toe Game:
 A colorful and interactive game with these features:
