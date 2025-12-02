@@ -2,7 +2,7 @@
 This repo represents my beginnings in the world of C# Windows Forms programming and demonstrating basic desktop app concepts through simple projects.
 
 <br>Project#1: Pizza Order:
-A customizable pizza-ordering application with these features:
+<br>A customizable pizza-ordering application with these features:</br>
 <ul>
   <li>Menus serve the user</li>
   <li>Dynamic price calculation</li>
@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/59422b43-979c-4744-8e4b-12c2d78ab055
 </br>
 
 <br>Project#2: Tic-Tac-Toe Game:
-A colorful and interactive game with these features:
+<br>A colorful and interactive game with these features:</br>
 <ul>
   <li>Player-vs-Player gameplay</li>
   <li>Clear visual grid with dynamic updates</li>
