@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#14\\Course Code\\Windows Forms\\TicTacToeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA140399-3069-46DA-A164-1926066CA0B0}|TicTacToeGame.csproj|e:\\programming_path\\programming advices.com\\backend development track\\course#14\\course code\\windows forms\\tictactoegame\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA140399-3069-46DA-A164-1926066CA0B0}|TicTacToeGame.csproj|solutionrelative:frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA140399-3069-46DA-A164-1926066CA0B0}|TicTacToeGame.csproj|E:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#14\\Course Code\\Windows Forms\\TicTacToeGame\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA140399-3069-46DA-A164-1926066CA0B0}|TicTacToeGame.csproj|solutionrelative:frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmGame.cs",
+              "DocumentMoniker": "E:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#14\\Course Code\\Windows Forms\\TicTacToeGame\\frmGame.cs",
+              "RelativeDocumentMoniker": "frmGame.cs",
+              "ToolTip": "E:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#14\\Course Code\\Windows Forms\\TicTacToeGame\\frmGame.cs*",
+              "RelativeToolTip": "frmGame.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:28:21.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGame.cs [Design]",
+              "DocumentMoniker": "E:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#14\\Course Code\\Windows Forms\\TicTacToeGame\\frmGame.cs",
+              "RelativeDocumentMoniker": "frmGame.cs",
+              "ToolTip": "E:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#14\\Course Code\\Windows Forms\\TicTacToeGame\\frmGame.cs [Design]*",
+              "RelativeToolTip": "frmGame.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:18:38.077Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
