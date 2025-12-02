@@ -3,7 +3,7 @@ This repo represents my beginnings in the world of C# Windows Forms programming 
 
 Project#1: Pizza Order:
 A customizable pizza-ordering WinForms application featuring dynamic price calculation, category-based toppings, and a clean user interface:
-
+https://github.com/user-attachments/assets/59422b43-979c-4744-8e4b-12c2d78ab055
 
 
 Project#2: Tic-Tac-Toe Game:
