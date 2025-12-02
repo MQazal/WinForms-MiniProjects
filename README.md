@@ -28,8 +28,3 @@ A colorful and interactive Tic-Tac-Toe game built using C# and Windows Forms wit
 . Automatic winner detection
 . Restart button to reset the board
 . Neon-styled UI for a modern appearance
-
-<img width="1337" height="814" alt="image" src="https://github.com/user-attachments/assets/4d12787b-94a8-449d-9af8-cfbe48a72e42" />
-<img width="1335" height="808" alt="image" src="https://github.com/user-attachments/assets/1e1e7c97-3d5c-43f5-9f7b-7303b1173a3b" />
-<img width="1340" height="804" alt="image" src="https://github.com/user-attachments/assets/86e4e637-7d4c-4678-ad0c-c0c60e8e6927" />
-<img width="1341" height="811" alt="image" src="https://github.com/user-attachments/assets/ea2703a1-efd1-4f03-9d76-1630b17256d5" />
