@@ -1,0 +1,16 @@
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.frmLogin.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe.config
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.frmEmployeeManagement.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.frmShowEmployee.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.frmAddEmployee.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.frmSearchAboutEmployee.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.frmUpdateEmployee.resources
