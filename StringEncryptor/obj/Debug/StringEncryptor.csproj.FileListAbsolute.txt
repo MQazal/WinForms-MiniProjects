@@ -1,0 +1,11 @@
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\StringEncryptor\bin\Debug\StringEncryptor.exe.config
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\StringEncryptor\bin\Debug\StringEncryptor.exe
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\StringEncryptor\bin\Debug\StringEncryptor.pdb
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\StringEncryptor\obj\Debug\StringEncryptor.csproj.AssemblyReference.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\StringEncryptor\obj\Debug\StringEncryptor.Form1.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\StringEncryptor\obj\Debug\StringEncryptor.Properties.Resources.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\StringEncryptor\obj\Debug\StringEncryptor.csproj.GenerateResource.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\StringEncryptor\obj\Debug\StringEncryptor.csproj.CoreCompileInputs.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\StringEncryptor\obj\Debug\StringEncryptor.exe
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\StringEncryptor\obj\Debug\StringEncryptor.pdb
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\StringEncryptor\obj\Debug\StringEncryptor.exe.config
