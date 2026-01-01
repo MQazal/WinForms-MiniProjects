@@ -136,7 +136,7 @@ This enterprise-level application demonstrates advanced Windows Forms developmen
 </br>
 
 
-<br>Project#7: Computer Science Memory Game</br>
+<h1>Project#7: Computer Science Memory Game</h1>
 <br>A desktop memory matching game built with Windows Forms, featuring computer science-themed images and multiple difficulty levels. The game challenges players
 to match pairs of cards within a time limit.
 </br>
