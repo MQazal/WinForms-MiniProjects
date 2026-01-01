@@ -1,8 +1,8 @@
 # WinForms-MiniProjects
 This repo represents my beginnings in the world of C# Windows Forms programming and demonstrating basic desktop app concepts through simple projects.
 
-<br>Project#1: Pizza Order:
-<br>A customizable pizza-ordering application with these features:</br>
+<h1>Project#1: Pizza Order</h1>
+<br>A customizable pizza-ordering application with these features:
 <ul>
   <li>Menus serve the user</li>
   <li>Dynamic price calculation</li>
@@ -13,8 +13,8 @@ https://github.com/user-attachments/assets/59422b43-979c-4744-8e4b-12c2d78ab055
 </br>
 
 
-<br>Project#2: Tic-Tac-Toe Game:
-<br>A colorful and interactive game with these features:</br>
+<h1>Project#2: Tic-Tac-Toe Game</h1>
+<br>A colorful and interactive game with these features:
 <ul>
   <li>Player-vs-Player gameplay</li>
   <li>Clear visual grid with dynamic updates</li>
@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/ca3d7876-2108-4d5f-8349-afb4b93545e8
 </br>
 
 
-<br>Project#3: Tree View To-Do App:</br>
+<h1>Project#3: Tree View To-Do App</h1>
 <br>
 A task management desktop application that organizes tasks hierarchically using a TreeView control, with the following features:
 </br>
@@ -40,9 +40,9 @@ A task management desktop application that organizes tasks hierarchically using 
 </ul>
 
 
-<br>Project#4: To-Do List (ListView Control):</br>
+<h1>Project#4: Checked List To-Do App</h1>
 <br>
-A desktop task management application built using the ListView control to display and manage tasks efficiently, with the following features:
+A desktop task management application built using the checked list control to display and manage tasks efficiently, with the following features:
 </br>
 <ul>
   <li>Task display using ListView rows and columns</li>
@@ -53,7 +53,7 @@ A desktop task management application built using the ListView control to displa
 </ul>
 
 
-<br>Project#5: String Encryptor:</br>
+<h1>Project#5: String Encryptor:</h1>
 <br>
 A desktop application designed to encrypt and decrypt text strings using simple encryption techniques, with the following features:
 </br>
@@ -66,7 +66,7 @@ A desktop application designed to encrypt and decrypt text strings using simple 
 </ul>
 
 
-<br>Project#6: Employee Management System</br>
+<h1>Project#6: Employee Management System</h1>
 <br>
 A comprehensive desktop application designed to manage employee records with full CRUD operations, featuring an advanced Windows Forms interface with the following capabilities:
 </br>
@@ -130,7 +130,6 @@ A comprehensive desktop application designed to manage employee records with ful
   <li>Clear visual feedback for all operations</li>
   <li>Multiple themed form designs (login, management, add, update, show, search)</li>
 </ul>
-
 <br>
 This enterprise-level application demonstrates advanced Windows Forms development with proper separation of concerns, data persistence, and professional UI/UX design patterns.
 </br>
