@@ -1,0 +1,11 @@
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\GameMemory\bin\Debug\GameMemory.exe.config
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\GameMemory\bin\Debug\GameMemory.exe
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\GameMemory\bin\Debug\GameMemory.pdb
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\GameMemory\obj\Debug\GameMemory.csproj.AssemblyReference.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\GameMemory\obj\Debug\GameMemory.Form1.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\GameMemory\obj\Debug\GameMemory.Properties.Resources.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\GameMemory\obj\Debug\GameMemory.csproj.GenerateResource.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\GameMemory\obj\Debug\GameMemory.csproj.CoreCompileInputs.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\GameMemory\obj\Debug\GameMemory.exe
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\GameMemory\obj\Debug\GameMemory.pdb
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\GameMemory\obj\Debug\GameMemory.exe.config
