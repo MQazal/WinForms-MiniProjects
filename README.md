@@ -1,7 +1,7 @@
 # WinForms-MiniProjects
 This repo represents my beginnings in the world of C# Windows Forms programming and demonstrating basic desktop app concepts through simple projects.
 
-<h1>Project#1: Pizza Order</h1>
+<h1>Project#1: Pizza Order App</h1>
 <br>A customizable pizza-ordering application with these features:
 <ul>
   <li>Menus serve the user</li>
@@ -53,7 +53,7 @@ A desktop task management application built using the checked list control to di
 </ul>
 
 
-<h1>Project#5: String Encryptor:</h1>
+<h1>Project#5: String Encryptor</h1>
 <br>
 A desktop application designed to encrypt and decrypt text strings using simple encryption techniques, with the following features:
 </br>
@@ -140,22 +140,19 @@ This enterprise-level application demonstrates advanced Windows Forms developmen
 to match pairs of cards within a time limit.
 </br>
 
-🎮 Features
-🧠 Core Gameplay
+<h3>🎮 Features</h3>
 
-26 Interactive Cards
-Grid layout with 13 matching pairs of computer science icons.
-
-Image Matching Logic
-Click two cards to reveal and match identical images.
-
-Smart Card Management
+<br>🧠 Core Gameplay</br>
+-26 Interactive Cards.
+-Grid layout with 13 matching pairs of computer science icons.
+-Image Matching Logic.
+-Click two cards to reveal and match identical images.
+-Smart Card Management:
 Uses ImageList control for efficient image storage and retrieval.
-
-Index-Based Tracking
+-Index-Based Tracking:
 Hidden image indices are stored in Button Tag properties for fast comparison.
 
-🎮 Game Controls
+<h3>🎮 Game Controls</h3>
 ⏱️ Difficulty Levels
 
 Easy — 10 minutes
@@ -176,7 +173,7 @@ Reset the game with a fresh card shuffle.
 Sound Toggle
 Enable or disable click sound effects.
 
-🎨 Visual Elements
+<h3>🎨 Visual Elements</h3>
 
 Dynamic Card Reveal
 Smooth transition between question mark and hidden images.
@@ -190,7 +187,7 @@ Real-time score counter (13 matches required to win).
 Custom Background
 Themed UI with computer science–related imagery.
 
-🛠️ Technical Implementation
+<h3>🛠️ Technical Implementation</h3>
 
 Fisher–Yates Shuffle Algorithm
 Ensures random card distribution each game.
@@ -208,7 +205,7 @@ Error Handling
 Prevents duplicate clicks and invalid moves.
 
 
-🖼️ Card Themes
+<h3>🖼️ Card Themes</h3>
 <p>The game includes 13 computer science themed images:</p>
 
 <strong>AI & Machine Learning</strong>
@@ -221,7 +218,7 @@ Prevents duplicate clicks and invalid moves.
 <strong>Console Development</strong>
 
 
-🏗️ Architecture
+<h3>🏗️ Architecture</h3>
 Key Components
 
 ImageList Control: Stores all game images with index-based access
@@ -246,11 +243,11 @@ Game Logic Pattern
 Click Button → Validate Click → Reveal Image → Store in Temp
 → Compare Tags → Match? → Yes: Disable & Score | No: Delay Flip Back
 
-🎯 Win/Lose Conditions
+<h3>🎯 Win/Lose Conditions</h3>
 Win: Match all 13 pairs (Score = 13)
 Lose: Timer reaches 0:00 before all matches found
 
-🔧 Technical Highlights
+<h3>🔧 Technical Highlights</h3>
 <ul>
   <li>Clean separation of concerns with focused methods</li>
   <li>Enum-based state management (<code>enLevel</code>, <code>enGameOver</code>)</li>
