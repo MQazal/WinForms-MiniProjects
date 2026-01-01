@@ -134,3 +134,134 @@ A comprehensive desktop application designed to manage employee records with ful
 <br>
 This enterprise-level application demonstrates advanced Windows Forms development with proper separation of concerns, data persistence, and professional UI/UX design patterns.
 </br>
+
+
+<br>Project#7: Computer Science Memory Game</br>
+<br>A desktop memory matching game built with Windows Forms, featuring computer science-themed images and multiple difficulty levels. The game challenges players
+to match pairs of cards within a time limit.
+</br>
+
+🎮 Features
+🧠 Core Gameplay
+
+26 Interactive Cards
+Grid layout with 13 matching pairs of computer science icons.
+
+Image Matching Logic
+Click two cards to reveal and match identical images.
+
+Smart Card Management
+Uses ImageList control for efficient image storage and retrieval.
+
+Index-Based Tracking
+Hidden image indices are stored in Button Tag properties for fast comparison.
+
+🎮 Game Controls
+⏱️ Difficulty Levels
+
+Easy — 10 minutes
+
+Medium — 3 minutes
+
+Hard — 2 minutes
+
+Real-time Timer
+Countdown timer with MM:SS display.
+
+Pause / Continue
+Suspend and resume gameplay at any time.
+
+Restart Function
+Reset the game with a fresh card shuffle.
+
+Sound Toggle
+Enable or disable click sound effects.
+
+🎨 Visual Elements
+
+Dynamic Card Reveal
+Smooth transition between question mark and hidden images.
+
+Card State Management
+Tracks revealed, matched, and hidden cards.
+
+Score Display
+Real-time score counter (13 matches required to win).
+
+Custom Background
+Themed UI with computer science–related imagery.
+
+🛠️ Technical Implementation
+
+Fisher–Yates Shuffle Algorithm
+Ensures random card distribution each game.
+
+Delay Timer
+1-second reveal delay for non-matching pairs.
+
+State Machine
+Proper game state handling (Running, Paused, Finished).
+
+Event-Driven Architecture
+Button click handlers with validation logic.
+
+Error Handling
+Prevents duplicate clicks and invalid moves.
+
+
+🖼️ Card Themes
+<p>The game includes 13 computer science themed images:</p>
+
+<strong>AI & Machine Learning</strong>
+<strong>Cybersecurity</strong> (Virus, Hack)
+<strong>Networking & IoT</strong>
+<strong>Programming Languages</strong> (C#, C++)
+<strong>Databases & Data Structures</strong>
+<strong>Operating Systems</strong>
+<strong>Mobile & Desktop Applications</strong>
+<strong>Console Development</strong>
+
+
+🏗️ Architecture
+Key Components
+
+ImageList Control: Stores all game images with index-based access
+Button Array: 26 buttons ordered by TabIndex for consistent layout
+Timer Controls:
+
+<code>GameLevelTimer</code>: Main countdown (1000ms interval)
+<code>DelayTimer</code>: Card flip delay (1000ms interval)
+
+State Variables: Tracks selected buttons, score, and game status
+
+Data Flow
+<ol>
+  <li>Images loaded into ImageList at startup</li>
+  <li>Index list created and shuffled (Fisher-Yates)</li>
+  <li>Shuffled indices assigned to button Tags</li>
+  <li>Click events reveal images by fetching from ImageList using stored index</li>
+  <li>Comparison logic checks Tag values (integer indices)</li>
+  <li>Match processing disables buttons or flips them back</li>
+</ol>
+Game Logic Pattern
+Click Button → Validate Click → Reveal Image → Store in Temp
+→ Compare Tags → Match? → Yes: Disable & Score | No: Delay Flip Back
+
+🎯 Win/Lose Conditions
+Win: Match all 13 pairs (Score = 13)
+Lose: Timer reaches 0:00 before all matches found
+
+🔧 Technical Highlights
+<ul>
+  <li>Clean separation of concerns with focused methods</li>
+  <li>Enum-based state management (<code>enLevel</code>, <code>enGameOver</code>)</li>
+  <li>Efficient image storage using integer indices vs. Image objects</li>
+  <li>Proper resource management with ImageList</li>
+  <li>Input validation and error prevention</li>
+  <li>Smooth UX with timed animations</li>
+</ul>
+
+📋 Prerequisites
+<strong>.NET Framework</strong> (Windows Forms Application)
+<strong>Windows OS</strong>
+<strong>Computer Science themed image resources</strong>
