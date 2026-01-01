@@ -135,129 +135,146 @@ This enterprise-level application demonstrates advanced Windows Forms developmen
 </br>
 
 
-<h1>Project#7: Computer Science Memory Game</h1>
-<br>A desktop memory matching game built with Windows Forms, featuring computer science-themed images and multiple difficulty levels. The game challenges players
-to match pairs of cards within a time limit.
-</br>
+<h1>Project #7: Computer Science Memory Game</h1>
+<p>
+A desktop memory matching game built with <strong>Windows Forms</strong>, featuring
+computer science–themed images and multiple difficulty levels.
+The game challenges players to match pairs of cards within a time limit.
+</p>
 
 <h3>🎮 Features</h3>
 
-<br>🧠 Core Gameplay</br>
--26 Interactive Cards.
--Grid layout with 13 matching pairs of computer science icons.
--Image Matching Logic.
--Click two cards to reveal and match identical images.
--Smart Card Management:
-Uses ImageList control for efficient image storage and retrieval.
--Index-Based Tracking:
-Hidden image indices are stored in Button Tag properties for fast comparison.
+<h4>🃏 Interactive Cards</h4>
+<ul>
+  <li>26 interactive cards displayed on the game board</li>
+  <li>Cards respond to user clicks to reveal hidden images</li>
+</ul>
+
+<h4>🧩 Grid Layout</h4>
+<ul>
+  <li>Organized using a structured grid layout</li>
+  <li>Contains <strong>13 matching pairs</strong> of computer science–themed icons</li>
+  <li>Ensures a clean and consistent visual arrangement</li>
+</ul>
+
+<h4>🧠 Image Matching Logic</h4>
+<ul>
+  <li>Players click <strong>two cards</strong> to reveal their images</li>
+  <li>The system checks whether the revealed images match</li>
+  <li>Matching pairs remain visible, while non-matching pairs flip back</li>
+</ul>
+
+<h4>🗂️ Smart Card Management</h4>
+<ul>
+  <li>Uses the <strong>ImageList</strong> control for efficient image storage</li>
+  <li>Reduces memory usage by sharing image resources</li>
+  <li>Simplifies image assignment and retrieval</li>
+</ul>
+
+<h4>🔢 Index-Based Tracking</h4>
+<ul>
+  <li>Each card stores its hidden image index in the <code>Button.Tag</code> property</li>
+  <li>Allows fast and reliable comparison logic</li>
+  <li>Improves performance and code readability</li>
+</ul>
 
 <h3>🎮 Game Controls</h3>
-⏱️ Difficulty Levels
 
-Easy — 10 minutes
+<h4>⏱️ Difficulty Levels</h4>
+<ul>
+  <li><strong>Easy:</strong> 10 minutes</li>
+  <li><strong>Medium:</strong> 3 minutes</li>
+  <li><strong>Hard:</strong> 2 minutes</li>
+</ul>
 
-Medium — 3 minutes
-
-Hard — 2 minutes
-
-Real-time Timer
-Countdown timer with MM:SS display.
-
-Pause / Continue
-Suspend and resume gameplay at any time.
-
-Restart Function
-Reset the game with a fresh card shuffle.
-
-Sound Toggle
-Enable or disable click sound effects.
+<ul>
+  <li><strong>Real-time Timer:</strong> Countdown timer with MM:SS display</li>
+  <li><strong>Pause / Continue:</strong> Suspend and resume gameplay at any time</li>
+  <li><strong>Restart:</strong> Reset the game with a fresh card shuffle</li>
+  <li><strong>Sound Toggle:</strong> Enable or disable click sound effects</li>
+</ul>
 
 <h3>🎨 Visual Elements</h3>
-
-Dynamic Card Reveal
-Smooth transition between question mark and hidden images.
-
-Card State Management
-Tracks revealed, matched, and hidden cards.
-
-Score Display
-Real-time score counter (13 matches required to win).
-
-Custom Background
-Themed UI with computer science–related imagery.
+<ul>
+  <li><strong>Dynamic Card Reveal:</strong> Smooth transition between question mark and image</li>
+  <li><strong>Card State Management:</strong> Tracks hidden, revealed, and matched cards</li>
+  <li><strong>Score Display:</strong> Real-time score counter (13 matches required to win)</li>
+  <li><strong>Custom Background:</strong> Computer science–themed UI</li>
+</ul>
 
 <h3>🛠️ Technical Implementation</h3>
-
-Fisher–Yates Shuffle Algorithm
-Ensures random card distribution each game.
-
-Delay Timer
-1-second reveal delay for non-matching pairs.
-
-State Machine
-Proper game state handling (Running, Paused, Finished).
-
-Event-Driven Architecture
-Button click handlers with validation logic.
-
-Error Handling
-Prevents duplicate clicks and invalid moves.
-
+<ul>
+  <li><strong>Fisher–Yates Shuffle Algorithm:</strong> Ensures true random card distribution</li>
+  <li><strong>Delay Timer:</strong> 1-second reveal delay for non-matching cards</li>
+  <li><strong>State Machine:</strong> Game states (Running, Paused, Finished)</li>
+  <li><strong>Event-Driven Architecture:</strong> Button click handlers with validation</li>
+  <li><strong>Error Handling:</strong> Prevents duplicate clicks and invalid moves</li>
+</ul>
 
 <h3>🖼️ Card Themes</h3>
-<p>The game includes 13 computer science themed images:</p>
-
-<strong>AI & Machine Learning</strong>
-<strong>Cybersecurity</strong> (Virus, Hack)
-<strong>Networking & IoT</strong>
-<strong>Programming Languages</strong> (C#, C++)
-<strong>Databases & Data Structures</strong>
-<strong>Operating Systems</strong>
-<strong>Mobile & Desktop Applications</strong>
-<strong>Console Development</strong>
-
+<p>The game includes 13 computer science–themed images:</p>
+<ul>
+  <li>AI & Machine Learning</li>
+  <li>Cybersecurity (Virus, Hack)</li>
+  <li>Networking & IoT</li>
+  <li>Programming Languages (C#, C++)</li>
+  <li>Databases & Data Structures</li>
+  <li>Operating Systems</li>
+  <li>Mobile & Desktop Applications</li>
+  <li>Console Development</li>
+</ul>
 
 <h3>🏗️ Architecture</h3>
-Key Components
 
-ImageList Control: Stores all game images with index-based access
-Button Array: 26 buttons ordered by TabIndex for consistent layout
-Timer Controls:
+<h4>Key Components</h4>
+<ul>
+  <li><strong>ImageList Control:</strong> Stores all game images with index-based access</li>
+  <li><strong>Button Array:</strong> 26 buttons ordered by TabIndex for consistent layout</li>
+  <li><strong>Timer Controls:</strong>
+    <ul>
+      <li><code>GameLevelTimer</code> – Main countdown timer (1000ms interval)</li>
+      <li><code>DelayTimer</code> – Card flip delay timer (1000ms interval)</li>
+    </ul>
+  </li>
+  <li><strong>State Variables:</strong> Track selected cards, score, and game status</li>
+</ul>
 
-<code>GameLevelTimer</code>: Main countdown (1000ms interval)
-<code>DelayTimer</code>: Card flip delay (1000ms interval)
-
-State Variables: Tracks selected buttons, score, and game status
-
-Data Flow
+<h4>Data Flow</h4>
 <ol>
-  <li>Images loaded into ImageList at startup</li>
-  <li>Index list created and shuffled (Fisher-Yates)</li>
-  <li>Shuffled indices assigned to button Tags</li>
-  <li>Click events reveal images by fetching from ImageList using stored index</li>
-  <li>Comparison logic checks Tag values (integer indices)</li>
-  <li>Match processing disables buttons or flips them back</li>
+  <li>Images are loaded into the ImageList at startup</li>
+  <li>Image index list is created and shuffled (Fisher–Yates)</li>
+  <li>Shuffled indices are assigned to Button.Tag properties</li>
+  <li>Click events reveal images via ImageList lookup</li>
+  <li>Comparison logic checks stored Tag indices</li>
+  <li>Matched cards remain disabled; mismatches flip back</li>
 </ol>
-Game Logic Pattern
-Click Button → Validate Click → Reveal Image → Store in Temp
-→ Compare Tags → Match? → Yes: Disable & Score | No: Delay Flip Back
 
-<h3>🎯 Win/Lose Conditions</h3>
-Win: Match all 13 pairs (Score = 13)
-Lose: Timer reaches 0:00 before all matches found
+<h4>Game Logic Pattern</h4>
+<p>
+Click Card → Validate → Reveal Image → Store Selection →
+Compare Tags → Match?
+Yes → Disable & Score | No → Delay → Flip Back
+</p>
+
+<h3>🎯 Win / Lose Conditions</h3>
+<ul>
+  <li><strong>Win:</strong> Match all 13 pairs (Score = 13)</li>
+  <li><strong>Lose:</strong> Timer reaches 0:00 before all matches are found</li>
+</ul>
 
 <h3>🔧 Technical Highlights</h3>
 <ul>
   <li>Clean separation of concerns with focused methods</li>
   <li>Enum-based state management (<code>enLevel</code>, <code>enGameOver</code>)</li>
-  <li>Efficient image storage using integer indices vs. Image objects</li>
-  <li>Proper resource management with ImageList</li>
-  <li>Input validation and error prevention</li>
+  <li>Efficient image handling using integer indices</li>
+  <li>Proper ImageList resource management</li>
+  <li>Robust input validation and error prevention</li>
   <li>Smooth UX with timed animations</li>
 </ul>
 
-📋 Prerequisites
-<strong>.NET Framework</strong> (Windows Forms Application)
-<strong>Windows OS</strong>
-<strong>Computer Science themed image resources</strong>
+<h3>📋 Prerequisites</h3>
+<ul>
+  <li>.NET Framework (Windows Forms Application)</li>
+  <li>Windows Operating System</li>
+  <li>Computer science–themed image resources</li>
+</ul>
