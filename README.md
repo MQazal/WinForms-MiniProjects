@@ -16,7 +16,7 @@ The projects in this repository are primarily built using:
 <h1>1- Simple Pizza Order Application</h1>
 
 <h2>Overview</h2>
-**Simple Pizza Order Application** is a Windows Forms desktop application that simulates a basic pizza ordering system.
+Simple Pizza Order Application is a Windows Forms desktop application that simulates a basic pizza ordering system.
 The application allows users to customize their pizza by selecting size, crust type, and additional toppings, while automatically calculating the total price based on the selected options.
 
 <h2>Features</h2>
