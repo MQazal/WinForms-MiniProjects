@@ -20,9 +20,11 @@ Simple Pizza Order Application is a Windows Forms desktop application that simul
 The application allows users to customize their pizza by selecting size, crust type, and additional toppings, while automatically calculating the total price based on the selected options.
 
 <h2>Features</h2>
-* 🍕 Select pizza size
-* 🥖 Choose crust type
-* 🧀 Add or remove toppings
-* 💲 Automatic price calculation based on selections
-* 📋 Display a summary of the order
-* 🖥️ Simple and interactive graphical interface
+<ul>
+<li>🍕 Select pizza size</li>
+<li>🥖 Choose crust type</li>
+<li>🧀 Add or remove toppings</li>
+<li>💲 Automatic price calculation based on selections</li>
+<li>📋 Display a summary of the order</li>
+<li>🖥️ Simple and interactive graphical interface</li>
+</ul>
