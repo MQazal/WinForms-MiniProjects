@@ -1,9 +1,5 @@
 # WinForms-MiniProjects
-
-# Introduction
-This repository represents my early journey into C# Windows Forms development. It contains a collection of mini projects designed to demonstrate fundamental desktop application concepts, user interface design, and event-driven programming.
-
-These projects were built as practical exercises to strengthen my understanding of building Windows desktop applications using C# and .NET.
+This repository represents my early journey into C# Windows Forms development. It contains a collection of mini projects designed to demonstrate fundamental desktop application concepts, user interface design, and event-driven programming. These projects were built as practical exercises to strengthen my understanding of building Windows desktop applications using C# and .NET.
 
 # Technologies Used
 The projects in this repository are primarily built using:
@@ -12,7 +8,6 @@ The projects in this repository are primarily built using:
 - Visual Studio
 
 # Projects List:
-
 <h1>1- Simple Pizza Order Application</h1>
 
 <h2>Overview</h2>
