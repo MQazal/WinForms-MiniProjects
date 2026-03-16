@@ -1,0 +1,11 @@
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RockPaperScissor\bin\Debug\RockPaperScissor.exe.config
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RockPaperScissor\bin\Debug\RockPaperScissor.exe
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RockPaperScissor\bin\Debug\RockPaperScissor.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.AssemblyReference.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RockPaperScissor\obj\Debug\RockPaperScissor.Form1.resources
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RockPaperScissor\obj\Debug\RockPaperScissor.Properties.Resources.resources
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.GenerateResource.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.CoreCompileInputs.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RockPaperScissor\obj\Debug\RockPaperScissor.exe
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RockPaperScissor\obj\Debug\RockPaperScissor.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RockPaperScissor\obj\Debug\RockPaperScissor.frmGame.resources
