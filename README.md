@@ -1,2 +1,2 @@
 # WinForms-MiniProjects
-This repo represents my beginnings in the world of C# Windows Forms programming and demonstrating basic desktop app concepts through simple projects.
+This repository represents my early journey into C# Windows Forms development. It contains a collection of mini projects designed to demonstrate fundamental desktop application concepts, user interface design, and event-driven programming. These projects were built as practical exercises to strengthen my understanding of building Windows desktop applications using C# and .NET.
