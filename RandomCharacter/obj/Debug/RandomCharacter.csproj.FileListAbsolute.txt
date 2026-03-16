@@ -1,0 +1,10 @@
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RandomCharacter\bin\Debug\RandomCharacter.exe.config
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RandomCharacter\bin\Debug\RandomCharacter.exe
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RandomCharacter\bin\Debug\RandomCharacter.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RandomCharacter\obj\Debug\RandomCharacter.csproj.AssemblyReference.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RandomCharacter\obj\Debug\RandomCharacter.Form1.resources
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RandomCharacter\obj\Debug\RandomCharacter.Properties.Resources.resources
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RandomCharacter\obj\Debug\RandomCharacter.csproj.GenerateResource.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RandomCharacter\obj\Debug\RandomCharacter.csproj.CoreCompileInputs.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RandomCharacter\obj\Debug\RandomCharacter.exe
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RandomCharacter\obj\Debug\RandomCharacter.pdb
