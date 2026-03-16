@@ -10,7 +10,6 @@ The projects in this repository are primarily built using:
 - C#
 - .NET Windows Forms (WinForms)
 - Visual Studio
-<br>
 
 # Projects List:
 
