@@ -1,0 +1,13 @@
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\TimeManager\bin\Debug\TimeManager.exe.config
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\TimeManager\bin\Debug\TimeManager.exe
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\TimeManager\bin\Debug\TimeManager.pdb
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\TimeManager\obj\Debug\TimeManager.csproj.AssemblyReference.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\TimeManager\obj\Debug\TimeManager.frmManager.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\TimeManager\obj\Debug\TimeManager.Properties.Resources.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\TimeManager\obj\Debug\TimeManager.csproj.GenerateResource.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\TimeManager\obj\Debug\TimeManager.csproj.CoreCompileInputs.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\TimeManager\obj\Debug\TimeManager.exe
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\TimeManager\obj\Debug\TimeManager.pdb
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\TimeManager\obj\Debug\TimeManager.exe.config
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\TimeManager\obj\Debug\TimeManager.frmStopWatch.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\TimeManager\obj\Debug\TimeManager.frmTimer.resources
