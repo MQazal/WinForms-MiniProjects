@@ -44,11 +44,9 @@ The application allows users to add tasks, mark them as completed, and manage th
 <br>
 
 <h1>To-Do List (TreeView Control)</h1>
-
 <h2>Overview</h2>
 To-Do List (TreeView Control) is a Windows Forms desktop application that demonstrates how to manage tasks using the TreeView control.
 The application allows users to organize tasks in a hierarchical structure, making it possible to group related tasks and display them in an expandable tree format.
-
 <h2>Features</h2>
 <ul>
 <li>🎯 Demonstrates practical usage of the TreeView control</li>
@@ -57,6 +55,22 @@ The application allows users to organize tasks in a hierarchical structure, maki
 <li>📂 Expand and collapse task groups</li>
 <li>🗑️ Remove selected tasks from the list</li>
 <li>📋 Display tasks in a structured and organized tree view</li>
+<li>🖥️ Simple and user-friendly Windows Forms interface</li>
+</ul>
+
+<br>
+
+<h1>Time Manager</h1>
+<h2>Overview</h2>
+Time Manager is a Windows Forms desktop application designed to help users organize and manage tasks based on time.
+The application allows users to create tasks, track time-related information, and maintain a clear overview of their schedule through a simple and intuitive interface.
+<h2>Features</h2>
+<ul>
+<li>📝 Add new tasks to manage daily activities</li>
+<li>⏱️ Track time associated with tasks</li>
+<li>✏️ Edit existing tasks</li>
+<li>🗑️ Remove tasks from the list</li>
+<li>📋 Display tasks in an organized list</li>
 <li>🖥️ Simple and user-friendly Windows Forms interface</li>
 </ul>
 
