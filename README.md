@@ -92,3 +92,19 @@ The application allows users to enter a string, apply a basic encryption algorit
 
 <br>
 
+<h1>Random Character Generator</h1>
+<h2>Overview</h2>
+Random Character Generator is a Windows Forms desktop application that generates random characters based on user interaction.
+The application demonstrates the use of randomization techniques in C# along with simple user interface controls to display dynamically generated characters.
+<h2>Features</h2>
+<ul>
+<li>🎲 Generate random characters</li>
+<li>🔤 Display generated characters in the interface</li>
+<li>⚡ Produce new results instantly with user interaction</li>
+<li>🔄 Demonstrate the use of random number generation</li>
+<li>📋 Simple interface for testing character generation</li>
+<li>🖥️ Clean and user-friendly Windows Forms interface</li>
+</ul>
+
+<br>
+
